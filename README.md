@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓A BSc(Hons) in Computer Science Undergraduate from Sri Lanka<br><br>✒️Specializing in Artificial Intelligence<br><br>💻 Currently learning Deep Learning<br><br>📫 kumargautham28official@gmail.com<br><br>
+🎓A BSc(Hons) in Computer Science Undergraduate from Sri Lanka<br><br>✒️Specializing in Artificial Intelligence<br><br>📫 kumargautham28official@gmail.com<br><br>
 <br>
 # Tech Stack
 
